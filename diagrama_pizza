@@ -1,0 +1,4 @@
+// Diagrama de Clases Pizza
+digraph PizzaOntology {
+	rankdir=BT size="50,50"
+}
